@@ -53,22 +53,5 @@ After evaluation, **CNN** was selected as the primary model due to its **high ac
 ## 📌 Conclusion
 Leveraging both **CNN** and **RNN** models provides a **robust approach** for plant disease detection. The CNN effectively **classifies plant health**, while the RNN enhances forecasting capabilities for disease progression. This hybrid approach supports **early intervention** and **sustainable agriculture**, improving overall crop health and productivity.
 
-## 📁 Repository Structure
-```
-├── data/                # Dataset (healthy & diseased plant images)
-├── models/              # Trained models (CNN, RNN, hybrid)
-├── src/                 # Code implementation (preprocessing, training, evaluation)
-├── api/                 # Deployment scripts for real-time inference
-├── reports/             # Model evaluation reports
-└── README.md            # Project documentation
-```
-
-## 📜 License
-This project is **open-source** and licensed under the MIT License.
-
-## ⭐ Acknowledgments
-- **University Of Jaffna**
-- **Datasets from [Roboflow](https://roboflow.com) & OpenAI**
-
 If you find this project useful, **leave a star ⭐ on GitHub!**
 
